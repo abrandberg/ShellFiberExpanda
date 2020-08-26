@@ -33,8 +33,7 @@ To generate networks and look at them, you don't need more than a laptop. Howeve
 - Anyone who intends to write a code to simulate fiber networks, who wants to "compare notes".
 
 ## Why did you do this like this?
-- The code was written in an unfunded project by me, August Brandberg.
-- It was originally intended as a proof of concept, and then mission-creep eventually caused it to be much bigger than that.
+- The code was originally intended as a proof of concept, and then mission-creep eventually caused it to be much bigger than that.
 - I am a mechanical engineer working on solid mechanics problems. This has steered my programming style [sic] and what is/is not explained in detail.
 
 
